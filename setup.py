@@ -4,8 +4,8 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="pca-arun-s",
-    version="0.0.1",
+    name="pca-arun-s-01",
+    version="0.1",
     author="ARUN S",
     author_email="a2r0u0n2@gmail.com",
     description="A Package to Lower the dimentions of the dataset",
